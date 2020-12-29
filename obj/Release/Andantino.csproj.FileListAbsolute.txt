@@ -1,0 +1,7 @@
+C:\Users\pretu\source\repos\Andantino\Andantino\bin\Release\Andantino.exe.config
+C:\Users\pretu\source\repos\Andantino\Andantino\bin\Release\Andantino.exe
+C:\Users\pretu\source\repos\Andantino\Andantino\bin\Release\Andantino.pdb
+C:\Users\pretu\source\repos\Andantino\Andantino\obj\Release\Andantino.csprojAssemblyReference.cache
+C:\Users\pretu\source\repos\Andantino\Andantino\obj\Release\Andantino.csproj.CoreCompileInputs.cache
+C:\Users\pretu\source\repos\Andantino\Andantino\obj\Release\Andantino.exe
+C:\Users\pretu\source\repos\Andantino\Andantino\obj\Release\Andantino.pdb
